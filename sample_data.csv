@@ -1,0 +1,8 @@
+date,temperature,rainfall,wind_speed,weather_type
+2025-11-11,22,5,10,Sunny
+2025-11-12,24,0,15,Sunny
+2025-11-13,21,8,12,Rainy
+2025-11-14,19,12,8,Rainy
+2025-11-15,23,0,14,Sunny
+2025-11-16,25,3,18,Cloudy
+2025-11-17,22,7,11,Rainy
