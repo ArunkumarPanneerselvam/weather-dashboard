@@ -192,8 +192,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@ArunkumarPanneerselvam]
-- ((https://github.com/ArunkumarPanneerselvam))
+ - GitHub: @ArunkumarPanneerselvam (https://github.com/ArunkumarPanneerselvam)
+ - LinkedIn: Arunkumar Panneerselvam (https://www.linkedin.com/in/arunkumarpanneerselvam/)
 
 ## 🙏 Acknowledgments
 
@@ -206,5 +206,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, please open an issue or contact me directly.
 
 ---
+
+🔗 Related Projects:
+
+Weather Dashboard (https://github.com/ArunkumarPanneerselvam/car-owner-analytics_dashboard/tree/main)
 
 **⭐ If you find this project helpful, please consider giving it a star!**
