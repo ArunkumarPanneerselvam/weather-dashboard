@@ -209,6 +209,6 @@ For questions or suggestions, please open an issue or contact me directly.
 
 🔗 Related Projects:
 
-Weather Dashboard (https://github.com/ArunkumarPanneerselvam/car-owner-analytics_dashboard/tree/main)
+- [Car Owner Analytics Dashboard]([https://github.com/ArunkumarPanneerselvam/car-owner-analytics_dashboard])
 
 **⭐ If you find this project helpful, please consider giving it a star!**
